@@ -45,7 +45,7 @@ The gif in question.</br>
 A quick drawing of a bouncing ball.</br>
 ![A sped up drawing of a bouncing ball](https://github.com/TeMyls/TK__Toon/blob/main/animating.gif)</br>
 The bouncing ball output gif.</br>
-![The bouncing ball gif](https://github.com/TeMyls/TK__Toon/blob/main/animating.gif)</br>
+![The bouncing ball gif](https://github.com/TeMyls/TK-Toon/blob/main/animating%20output.gif)</br>
 
 # Big thanks to the articles below
 <https://blog.teclado.com/tkinter-scrollable-frames/></br>
